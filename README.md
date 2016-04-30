@@ -1,2 +1,3 @@
 # hello-world
-Just a test repository
+This is pretty cool stuff I guess.
+My favorite color is blue.
